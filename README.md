@@ -1,7 +1,7 @@
 ## 📝 About Me
  
  - 👋 Hi, I’m Srushty Patel
- - 👀 software developer with proficiency in designing and testing, using a variety of tools and technologies.
+ - 👀 A software developer with proficiency in designing and testing, using a variety of tools and technologies.
  - 🌱  Demonstrated strong communication and collaboration skills through successful teamwork to achieve shared goals. 
  - 👯 I’m looking to collaborate with other content creators 
  
