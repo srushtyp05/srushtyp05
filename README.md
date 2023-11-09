@@ -22,12 +22,6 @@
 </div>
 
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sryshtyp05&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
-## ⚡ Holopin board
-
-<img src="https://holopin.io/api/user/board?user=srushtyp05&theme=react" width="100%"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan0513&label=Profile%20views&color=0e75b6&style=flat" alt="chintan0513" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srushtyp05&label=Profile%20views&color=0e75b6&style=flat" alt="srushtyp05" /> </p>
 
