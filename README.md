@@ -1,10 +1,10 @@
 ## 📝 About Me
  
  - 👋 Hi there! I’m Srushty Patel
- - 👩‍🎓 A software developer with proficiency in designing and testing, using a variety of tools and technologies.
+ - 👩‍🎓 A Data & Reporting Analyst with 3+ years of experience in data reporting, validation, and dashboard development within financial and operational environments.
  - 👀 Demonstrated strong communication and collaboration skills through successful teamwork to achieve shared goals. 
- - 👯 I want to connect with industry experts, developers, and students for collaborations and expand my network in the tech community.
- - 👩‍💻2024 Goal- Continuously update skills by learning new technologies.
+ - 👯 Expertise in SQL, Excel, Pyrhon, Power BI, and Tableau for extracting, transforming, and validating high-volume datasets
+ - 👩‍💻Goal- Continuously update skills by learning new technologies.
  
 ## 📫 How to reach me! 
 <p align="left">
